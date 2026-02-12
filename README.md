@@ -1,6 +1,8 @@
 # Game Launcher App
 
-## Overview
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pygame](https://img.shields.io/badge/Pygame-Game%20Engine-green)
+
 **Game Launcher** is a lightweight game library interface designed for games built with the **Pygame** engine.  
 It allows users to browse a collection of available games and launch them instantly from a single centralized interface, eliminating the need to manually run individual game files.
 
