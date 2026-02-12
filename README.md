@@ -20,6 +20,8 @@ The launcher is designed for simplicity, quick navigation, and seamless switchin
 ---
 
 ## Project Structure
+
+<p>
 PyGameApp/
 │
 ├── launcher.py
@@ -29,6 +31,7 @@ PyGameApp/
 │ ├── Game2/
 │ │ └── game.py
 │ └── ...
+</p>
 
 Each game should be placed inside its own folder within the `library/` directory.
 
