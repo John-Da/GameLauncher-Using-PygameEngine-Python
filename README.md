@@ -6,6 +6,8 @@ It allows users to browse a collection of available games and launch them instan
 
 The launcher is designed for simplicity, quick navigation, and seamless switching between games, making it ideal for collections of small Pygame projects or student game portfolios.
 
+https://github.com/user-attachments/assets/51640ef3-467d-4d57-a3ed-e8b1ef2d845d
+
 ---
 
 ## Features
