@@ -23,13 +23,20 @@ The launcher is designed for simplicity, quick navigation, and seamless switchin
 
 <p>
 PyGameApp/
+  
 │
 ├── launcher.py
+
 ├── library/
+
 │ ├── Game1/
+
 │ │ └── game.py
+
 │ ├── Game2/
+
 │ │ └── game.py
+
 │ └── ...
 </p>
 
