@@ -28,12 +28,14 @@ PyGameApp/
 ├── library/
 │ ├── Game1/
 │ │ └── game.py
+│ │ └── icon.png
 │ ├── Game2/
 │ │ └── game.py
+│ │ └── icon.png
 │ └── ...
 ```
 
-Each game should be placed inside its own folder within the `library/` directory.
+Each game and icon should be placed inside its own folder within the `library/` directory.
 
 ---
 
